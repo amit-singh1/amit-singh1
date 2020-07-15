@@ -1,9 +1,10 @@
-### Hi there 👋
-Profile Hits : ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Famit-singh1)
+## Hi there 👋
+Profile Hits : [![HitCount](http://hits.dwyl.com/amit-singh1/amit-singh1.svg)](http://hits.dwyl.com/amit-singh1/amit-singh1)
+
 <!--
 **amit-singh1/amit-singh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Personal Portfolio :
+### Personal Portfolio :
 
 - 🔭 I’m currently working on E-Commerce Website, Travel Management App, HealthCare Website
 - 🌱 I’m currently learning AWS, Data Science
