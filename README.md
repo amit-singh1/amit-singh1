@@ -1,5 +1,6 @@
 ## Hi there 👋
-Profile Hits : [![HitCount](http://hits.dwyl.com/amit-singh1/amit-singh1.svg)](http://hits.dwyl.com/amit-singh1/amit-singh1)
+Profile Hits : 
+                [![HitCount](http://hits.dwyl.com/amit-singh1/amit-singh1.svg)](http://hits.dwyl.com/amit-singh1/amit-singh1)
 
 <!--
 **amit-singh1/amit-singh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
